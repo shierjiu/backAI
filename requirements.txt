@@ -1,0 +1,9 @@
+Django~=5.2
+djangorestframework~=3.16.0
+PyMySQL~=1.1.1
+requests~=2.32.3
+Markdown~=3.8
+openai~=1.70.0
+pandas~=2.2.3
+django-mptt~=0.17.0
+djangorestframework-recursive~=0.1.2

@@ -1,0 +1,9 @@
+.idea/
+**/migrations
+**/__pycache__
+*.pyc
+Static/favicon.ico
+Static/index.html
+Static/css/
+Static/js/
+Static/media/
